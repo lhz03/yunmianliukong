@@ -3,7 +3,7 @@
 #### 介绍
 聚力流控V4.6全开源 OpenVPN 免流搭建  脚本全部开源  搭建有问题请联系作者
 
-Github仓库或百度云下载：https://pan.baidu.com/s/19gZrXyWc0qS4EZTPQIdZLw 
+Github仓库或百度云下载： https://pan.baidu.com/s/19gZrXyWc0qS4EZTPQIdZLw 
 提取码：a97h
 
 #### 软件架构
